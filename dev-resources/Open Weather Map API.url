@@ -1,0 +1,5 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://api.openweathermap.org/data/2.5/weather?appid=d51b7c7531536df8b94bf1b025311b4a&q=Portland&units=imperial
